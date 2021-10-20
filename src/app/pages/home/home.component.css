@@ -1,0 +1,22 @@
+.chart-wrapper {
+  width:425px;
+  height:200px;
+  padding-left: 2px;
+  padding-right: 100px;
+}
+element.style {
+}
+hr {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+
+
+
